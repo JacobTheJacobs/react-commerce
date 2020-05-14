@@ -3,14 +3,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyD_Nw3995TUThjfdyoyp97ZPDUDJz12DiQ",
-  authDomain: "react-store-51d49.firebaseapp.com",
-  databaseURL: "https://react-store-51d49.firebaseio.com",
-  projectId: "react-store-51d49",
-  storageBucket: "react-store-51d49.appspot.com",
-  messagingSenderId: "136873580766",
-  appId: "1:136873580766:web:0b58b78f445b9830c5ca4f",
-  measurementId: "G-56D9FF6BG7",
+
 };
 
 firebase.initializeApp(config);
